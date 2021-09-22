@@ -1,0 +1,3 @@
+IP for the attack machine is 10.3.2.50
+
+IP for the victims 10.3.2.100
